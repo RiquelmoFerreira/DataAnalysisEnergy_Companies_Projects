@@ -1,4 +1,4 @@
-# Bitcoin Analysis Project
+# Value Shares of Brazilian Energy Companies Analysis Project
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RiquelmoFerreira/DataAnalysisEnergy_Companies_Projects/blob/main/License)
 
 # About the Project
