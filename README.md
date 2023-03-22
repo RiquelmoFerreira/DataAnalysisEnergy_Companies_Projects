@@ -1,11 +1,11 @@
-# Value Shares of Brazilian Energy Companies Analysis Project
+# Shares Value of Brazilian Energy Companies Analysis Project
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RiquelmoFerreira/DataAnalysisEnergy_Companies_Projects/blob/main/License)
 
 # About the Project
 
 This project was done during the hands-on training of the Python for Data Analysis course carried out by DataViking
 
-The project is an analysis of the value of shares of Brazilian energy companies from 2021 to 2022, in this project the Python language and its libraries Numpy, Pandas, Seaborn and Matplotlib were used in the Jupyter Notebook environment
+The project is an analysis of the shares value of brazilian energy companies from 2021 to 2022, in this project the Python language and its libraries Numpy, Pandas, Seaborn and Matplotlib were used in the Jupyter Notebook environment
 
 ## Overview
 ![InitialVision](https://github.com/RiquelmoFerreira/Images/blob/main/9.png)
@@ -23,6 +23,7 @@ The project is an analysis of the value of shares of Brazilian energy companies 
 
 # Run the Project
 Prerequisites:
+- Python 3.11.0 or superior
 - Jupyter Notebook
 - Numpy
 - Pandas
