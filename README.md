@@ -1,3 +1,4 @@
+# English:
 # Shares Value of Brazilian Energy Companies Analysis Project
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RiquelmoFerreira/DataAnalysisEnergy_Companies_Projects/blob/main/License)
 
@@ -34,5 +35,45 @@ Prerequisites:
 Riquelmo Afonso Avelar Ferreira
 
 https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/?locale=en_US
+#
+
+# Português:
+# Análise do Valor das Ações de empresas brasileiras de Energia
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RiquelmoFerreira/DataAnalysisEnergy_Companies_Projects/blob/main/License)
+
+# Sobre o Projeto
+
+Esse projeto foi feito durante o treino prático do curso de Python para Análise de Dados conduzido por DataViking
+
+O projeto é uma análise do valor das ações das empresas brasileiras de energia de 2021 a 2022, nesse projeto foram usadas a linguagem Python e suas Bibliotecas Numpy, Pandas, Matplotlib e Seaborn no ambiente do Jupyter Notebook.
+
+## Visão Geral do Projeto
+![VisaoGeral](https://github.com/RiquelmoFerreira/Images/blob/main/9.png)
+
+## Visão Geral do Gráfico
+![GraficoGeral](https://github.com/RiquelmoFerreira/Images/blob/main/10.png)
+
+# Tecnologias e Bibliotecas
+- Python para Análise de Dados
+- Numpy
+- Pandas
+- Seaborn
+- Matplotlib
+
+# Rode o Projeto:
+Pré-Requisitos:
+- Python 3.11.0 ou superior
+- Jupyter Notebook
+- Numpy
+- Pandas
+- Seaborn
+- Matplotlib
+
+# Autor
+Riquelmo Afonso Avelar Ferreira
+
+https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/?locale=en_US
+
+ 
 
  
